@@ -1,0 +1,1307 @@
+﻿Log file open, 11/09/19 05:00:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DonutsGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 12.809783
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1703) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 750 Ti
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programs/Unreal/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Engine.ini]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Engine.ini]
+[2019.11.09-04.00.23:812][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Engine.ini]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Engine.ini]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.09-04.00.23:812][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.09-04.00.23:813][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.09-04.00.23:813][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.09-04.00.23:813][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Engine.ini]
+[2019.11.09-04.00.23:813][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Engine.ini]
+[2019.11.09-04.00.23:984][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.09-04.00.23:984][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.09-04.00.23:985][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.09-04.00.23:986][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.09-04.00.24:014][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.09-04.00.24:014][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.09-04.00.24:119][  0]LogHAL: Display: Platform has ~ 8 GB [8543453184 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.09-04.00.24:119][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.09-04.00.24:125][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.24:125][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.09-04.00.24:126][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Scalability.ini]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.09-04.00.24:127][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.09-04.00.24:168][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.09-04.00.24:168][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.09-04.00.24:168][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Config/Windows/Engine.ini]
+[2019.11.09-04.00.24:252][  0]LogInit: Computer: DESKTOP-IDSHFGI
+[2019.11.09-04.00.24:252][  0]LogInit: User: Quinten
+[2019.11.09-04.00.24:252][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.09-04.00.24:252][  0]LogInit: High frequency timer resolution =3.328123 MHz
+[2019.11.09-04.00.24:252][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.11.09-04.00.24:252][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.09-04.00.24:252][  0]LogMemory: Process Physical Memory: 101.28 MB used, 101.28 MB peak
+[2019.11.09-04.00.24:252][  0]LogMemory: Process Virtual Memory: 99.13 MB used, 99.13 MB peak
+[2019.11.09-04.00.24:252][  0]LogMemory: Physical Memory: 5028.38 MB used,  3119.30 MB free, 8147.67 MB total
+[2019.11.09-04.00.24:252][  0]LogMemory: Virtual Memory: 548.30 MB used,  134217176.00 MB free, 134217728.00 MB total
+[2019.11.09-04.00.24:297][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.09-04.00.26:306][  0]LogInit: Using OS detected language (en-GB).
+[2019.11.09-04.00.26:306][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.09-04.00.26:750][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.11.09-04.00.30:363][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.09-04.00.32:582][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.09-04.00.32:582][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.09-04.00.36:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.09-04.00.36:976][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.09-04.00.37:188][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2019.11.09-04.00.37:188][  0]LogD3D11RHI:       2007/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.09-04.00.37:190][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.09-04.00.37:190][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.09-04.00.37:190][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.09-04.00.37:277][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.09-04.00.37:277][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.09-04.00.37:304][  0]LogWindows: EnumDisplayDevices:
+[2019.11.09-04.00.37:304][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2019.11.09-04.00.37:304][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2019.11.09-04.00.37:304][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2019.11.09-04.00.37:304][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.11.09-04.00.37:304][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2019.11.09-04.00.37:305][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.11.09-04.00.37:305][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.11.09-04.00.37:305][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.11.09-04.00.37:433][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.09-04.00.37:767][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.09-04.00.39:682][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.09-04.00.39:728][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.09-04.00.39:764][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.09-04.00.39:814][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.09-04.00.39:904][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.09-04.00.39:987][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.09-04.00.40:042][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.09-04.00.40:109][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.09-04.00.40:179][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.09-04.00.40:345][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.09-04.00.40:404][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.09-04.00.40:541][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.09-04.00.40:541][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.09-04.00.40:575][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.09-04.00.40:575][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.09-04.00.40:606][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.09-04.00.40:681][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.09-04.00.40:766][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.09-04.00.40:831][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.09-04.00.40:892][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.09-04.00.40:892][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.09-04.00.40:892][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.09-04.00.41:280][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.09-04.00.42:872][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Intermediate/Shaders/WorkingDirectory/10236/).
+[2019.11.09-04.00.42:872][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Quinten/AppData/Local/Temp/UnrealShaderWorkingDir/84B67ACE4C246C2C921269950F096204/'.
+[2019.11.09-04.00.42:904][  0]LogXGEController: Cleaning working directory: C:/Users/Quinten/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.09-04.00.42:904][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.09-04.00.42:905][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.09-04.00.42:905][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.09-04.01.00:528][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.09-04.01.00:760][  0]LogDerivedDataCache: Loaded boot cache 0.23s 73MB C:/Users/Quinten/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.09-04.01.00:760][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Quinten/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.09-04.01.00:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.09-04.01.00:761][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.09-04.01.00:761][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.09-04.01.00:761][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.09-04.01.00:804][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.09-04.01.00:804][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.09-04.01.00:804][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.09-04.01.00:806][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Quinten/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.09-04.01.00:806][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.09-04.01.00:806][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.09-04.01.01:007][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.09-04.01.01:351][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.09-04.01.01:739][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.09-04.01.05:311][  0]LogAssetRegistry: FAssetRegistry took 0.0985 seconds to start up
+[2019.11.09-04.01.14:399][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Intermediate/CachedAssetRegistry.bin
+[2019.11.09-04.01.14:399][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.09-04.01.16:223][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.09-04.01.16:223][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.09-04.01.16:223][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.09-04.01.16:223][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.09-04.01.16:224][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.09-04.01.16:576][  0]LogNetVersion: DonutsGame 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3195961881)
+[2019.11.09-04.01.22:472][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Intermediate/AssetRegistryCache/2657c409.bin
+[2019.11.09-04.01.22:565][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Intermediate/AssetRegistryCache/6bead350.bin
+[2019.11.09-04.01.22:575][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Intermediate/AssetRegistryCache/6e4a5115.bin
+[2019.11.09-04.01.22:585][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Intermediate/AssetRegistryCache/e496c563.bin
+[2019.11.09-04.01.22:594][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Intermediate/AssetRegistryCache/52ed2538.bin
+[2019.11.09-04.01.22:604][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Intermediate/AssetRegistryCache/1f683343.bin
+[2019.11.09-04.01.22:607][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.176915 seconds
+[2019.11.09-04.01.22:615][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.09-04.01.22:615][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.09-04.01.22:615][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.09-04.02.32:711][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.09-04.02.32:779][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.09-04.02.35:059][  0]SourceControl: Source control is disabled
+[2019.11.09-04.02.35:059][  0]SourceControl: Source control is disabled
+[2019.11.09-04.02.35:381][  0]SourceControl: Source control is disabled
+[2019.11.09-04.02.35:498][  0]SourceControl: Source control is disabled
+[2019.11.09-04.02.37:667][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.09-04.02.38:384][  0]LogOcInput: OculusInput pre-init called
+[2019.11.09-04.02.38:439][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.09-04.02.38:439][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.09-04.02.39:649][  0]LogEngine: Initializing Engine...
+[2019.11.09-04.02.39:665][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.09-04.02.39:736][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.009 s
+[2019.11.09-04.02.40:883][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.09-04.02.41:314][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.09-04.02.41:424][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.09-04.02.41:450][  0]LogInit: FAudioDevice initialized.
+[2019.11.09-04.02.41:450][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.09-04.02.41:545][  0]LogDerivedDataCache: Saved boot cache 0.10s 73MB C:/Users/Quinten/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.09-04.02.41:553][  0]LogInit: Texture streaming: Enabled
+[2019.11.09-04.02.42:091][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.09-04.02.42:380][  0]LogInit: Transaction tracking system initialized
+[2019.11.09-04.02.42:754][  0]BlueprintLog: New page: Editor Load
+[2019.11.09-04.02.43:712][  0]LocalizationService: Localization service is disabled
+[2019.11.09-04.02.47:958][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Content/' took 0.03s
+[2019.11.09-04.02.47:958][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.09-04.02.47:958][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.09-04.02.52:579][  0]SourceControl: Source control is disabled
+[2019.11.09-04.02.52:656][  0]Cmd: MAP LOAD FILE="C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.09-04.02.52:662][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Content/VehicleBP/Maps/VehicleExampleMap.umap'
+[2019.11.09-04.02.52:678][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.09-04.02.52:687][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.409ms to complete.
+[2019.11.09-04.02.52:687][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 0.069
+[2019.11.09-04.02.53:348][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-04.02.53:371][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-04.02.53:378][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-04.02.53:385][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-04.02.53:468][  0]LogCollectionManager: Loaded 0 collections in 0.003475 seconds
+[2019.11.09-04.02.53:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Saved/Collections/' took 0.00s
+[2019.11.09-04.02.53:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Content/Developers/Quinten/Collections/' took 0.00s
+[2019.11.09-04.02.53:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Content/Collections/' took 0.00s
+[2019.11.09-04.02.53:587][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.09-04.02.53:603][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2865 classes and 683 folders.
+[2019.11.09-04.02.53:775][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.09-04.02.54:777][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.09-04.02.54:837][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.09-04.02.55:476][  0]LogSlate: Took 0.038373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.09-04.02.55:515][  0]LogSlate: Took 0.037667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.09-04.02.55:540][  0]LogSlate: Took 0.021580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.09-04.02.55:991][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.09-04.02.56:438][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.09-04.02.56:438][  0]LogLoad: (Engine Initialization) Total time: 224.22 seconds
+[2019.11.09-04.02.56:438][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.09-04.02.56:526][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.11.09-04.02.56:526][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.11.09-04.02.56:526][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2019.11.09-04.02.56:527][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2019.11.09-04.02.56:527][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2019.11.09-04.02.56:670][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.09-04.02.56:883][  0]LogSlate: Took 0.029731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.09-04.02.57:620][  9]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.09-04.02.59:030][ 31]LogAssetRegistry: Asset discovery search completed in 113.7191 seconds
+[2019.11.09-04.02.59:036][ 31]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2019.11.09-04.02.59:036][ 31]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000116 seconds (updated 0 objects)
+[2019.11.09-04.03.16:984][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-04.03.24:039][771]LogAIModule: Creating AISystem for world TankGame
+[2019.11.09-04.03.24:682][771]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TankGame.TankGame
+[2019.11.09-04.03.24:737][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.11.09-04.03.24:738][771]Cmd: MAP LOAD FILE="C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/Content/Maps/TankGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.09-04.03.24:738][771]LightingResults: New page: Lighting Build
+[2019.11.09-04.03.24:847][771]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.11.09-04.03.24:876][771]LoadErrors: New page: Loading map: TankGame.umap
+[2019.11.09-04.03.24:887][771]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-04.03.24:888][771]MapCheck: New page: Map Check
+[2019.11.09-04.03.24:888][771]LightingResults: New page: Lighting Build
+[2019.11.09-04.03.24:912][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.11.09-04.03.25:546][771]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.09-04.03.25:676][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.09-04.03.25:710][771]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.09-04.03.25:710][771]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2019.11.09-04.03.25:710][771]LogFileHelpers: Loading map 'TankGame' took 0.973
+[2019.11.09-04.03.27:180][869]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.09-04.03.27:191][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TankGame.TankGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TankGame.TankGame:PersistentLevel.TankGame' with GeneratedClass '/Game/Maps/TankGame.TankGame_C' with ClassGeneratedBy '/Game/Maps/TankGame.TankGame:PersistentLevel.TankGame'
+[2019.11.09-04.03.27:253][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.09-04.03.27:271][869]PIE: New page: PIE session: TankGame (Nov 9, 2019, 6:03:27 AM)
+[2019.11.09-04.03.27:291][869]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.09-04.03.27:334][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TankGame
+[2019.11.09-04.03.27:388][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053581s)
+[2019.11.09-04.03.27:389][869]LogAIModule: Creating AISystem for world TankGame
+[2019.11.09-04.03.27:389][869]LogPlayLevel: PIE: World Init took: (0.001799s)
+[2019.11.09-04.03.27:389][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TankGame.TankGame to /Game/Maps/UEDPIE_0_TankGame.TankGame (0.055675s)
+[2019.11.09-04.03.27:415][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.09-04.03.27:436][869]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.09-04.03.27:449][869]LogInit: FAudioDevice initialized.
+[2019.11.09-04.03.27:460][869]LogLoad: Game class is 'TankGameMode_C'
+[2019.11.09-04.03.27:520][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TankGame.TankGame up for play (max tick rate 0) at 2019.11.09-05.03.27
+[2019.11.09-04.03.27:626][869]LogWorld: Bringing up level for play took: 0.161579
+[2019.11.09-04.03.27:626][869]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.11.09-04.03.27:689][869]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.11.09-04.03.27:714][869]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.11.09-04.03.27:778][869]PIE: Warning: The widget 'PlayerWidget_C' was already added to the screen.
+[2019.11.09-04.03.27:798][869]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TankGame -0.205
+[2019.11.09-04.03.27:798][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TankGame.TankGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TankGame.TankGame:PersistentLevel.TankGame' with GeneratedClass '/Game/Maps/TankGame.TankGame_C' with ClassGeneratedBy '/Game/Maps/TankGame.TankGame:PersistentLevel.TankGame'
+[2019.11.09-04.03.28:015][869]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2019.11.09-04.03.28:142][869]LogSlate: Took 0.125258 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.11.09-04.03.30:125][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-04.03.36:715][495]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.09-04.03.36:715][495]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.09-04.03.45:979][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TankGame.TankGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TankGame.TankGame:PersistentLevel.TankGame' with GeneratedClass '/Game/Maps/TankGame.TankGame_C' with ClassGeneratedBy '/Game/Maps/TankGame.TankGame:PersistentLevel.TankGame'
+[2019.11.09-04.03.45:998][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-04.03.45:998][193]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TankGame
+[2019.11.09-04.03.45:998][193]LogWorld: UWorld::CleanupWorld for TankGame, bSessionEnded=true, bCleanupResources=true
+[2019.11.09-04.03.46:074][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.09-04.03.46:074][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TankGame.TankGame:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TankGame.TankGame:PersistentLevel.TankGame' with GeneratedClass '/Game/Maps/TankGame.TankGame_C' with ClassGeneratedBy '/Game/Maps/TankGame.TankGame:PersistentLevel.TankGame'
+[2019.11.09-04.03.46:102][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.09-04.03.46:105][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.11.09-04.03.46:113][193]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.09-04.03.46:297][194]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.11.09-04.03.47:650][314]LogSlate: Window 'Message Log' being destroyed
+[2019.11.09-04.03.47:664][314]LogSlate: Window 'Message Log' being destroyed
+[2019.11.09-04.03.49:386][498]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.09-04.03.51:860][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.11.09-04.04.04:859][719]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2019.11.09-04.04.05:456][759]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/DonutsGame.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/DonutsGame.uproject" -cook -stage -archive -archivedirectory="D:/New folder/Build" -package -clientconfig=Development -ue4exe="D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -utf8output
+[2019.11.09-04.04.06:842][847]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject
+[2019.11.09-04.04.06:842][847]UATHelper: Packaging (Windows (64-bit)): DonutsGame.uproject requires a temporary target.cs to be generated (RawInput plugin is enabled)
+[2019.11.09-04.04.08:175][851]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2019.11.09-04.04.08:175][851]UATHelper: Packaging (Windows (64-bit)): Running: D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Binaries\DotNET\UnrealBuildTool.exe DonutsGame Win64 Development -Project="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject"  "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject" -NoUBTMakefiles  -remoteini="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame" -skipdeploy -Manifest="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\Quinten\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Programs+Unreal+Epic+Games+UE_4.23\UBT-DonutsGame-Win64-Development.txt"
+[2019.11.09-04.04.11:517][861]UATHelper: Packaging (Windows (64-bit)):   Parsing headers for DonutsGame
+[2019.11.09-04.04.11:517][861]UATHelper: Packaging (Windows (64-bit)):     Running UnrealHeaderTool "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject" "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Intermediate\Build\Win64\DonutsGame\Development\DonutsGame.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.09-04.04.34:542][930]UATHelper: Packaging (Windows (64-bit)):   Reflection code generated for DonutsGame in 23.0414738 seconds
+[2019.11.09-04.04.35:881][934]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Intermediate\Build\Manifest.xml
+[2019.11.09-04.04.36:214][935]UATHelper: Packaging (Windows (64-bit)):   Target is up to date
+[2019.11.09-04.04.36:214][935]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 27.84 seconds
+[2019.11.09-04.04.36:214][935]UATHelper: Packaging (Windows (64-bit)): Took 27.9213178s to run UnrealBuildTool.exe, ExitCode=0
+[2019.11.09-04.04.36:214][935]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2019.11.09-04.04.36:214][935]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2019.11.09-04.04.36:214][935]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject
+[2019.11.09-04.04.36:214][935]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.11.09-05.04.36.txt
+[2019.11.09-04.04.36:214][935]UATHelper: Packaging (Windows (64-bit)): Running: D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.11.09-05.04.36.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2019.11.09-04.04.36:545][936]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.11.09-04.04.36:545][936]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: DonutsGame
+[2019.11.09-04.04.38:224][941]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8543453184 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.09-04.04.38:890][943]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.09-04.04.38:890][943]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.09-04.04.38:890][943]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.09-04.04.38:890][943]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.09-04.04.38:890][943]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.09-04.04.38:890][943]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.09-04.04.38:890][943]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.09-04.04.38:890][943]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.09-04.04.38:890][943]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.09-04.04.39:223][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.09-04.04.39:224][944]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.09-04.04.39:557][945]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.09-04.04.39:893][946]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Quinten/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.09-04.04.39:893][946]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.09-04.04.41:226][950]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.09-04.04.41:226][950]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2019.11.09-04.04.41:226][950]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2019.11.09-04.04.41:560][951]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2019.11.09-04.04.41:560][951]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2019.11.09-04.04.42:225][953]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2019.11.09-04.04.42:225][953]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.463 seconds for platforms WindowsNoEditor  iterative false
+[2019.11.09-04.04.43:223][955]UATHelper: Packaging (Windows (64-bit)):   CookResults: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.04.43:223][955]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.04.43:224][955]UATHelper: Packaging (Windows (64-bit)):   CookResults: Warning: Unable to find package for cooking /Game/VehicleBP/Maps/VehicleExampleMap
+[2019.11.09-04.04.43:224][955]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/VehicleBP/Maps/VehicleExampleMap
+[2019.11.09-04.04.43:224][955]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 481 Total 481
+[2019.11.09-04.04.43:224][955]PackagingResults: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.04.43:224][955]PackagingResults: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.04.43:224][955]PackagingResults: Warning: Unable to find package for cooking /Game/VehicleBP/Maps/VehicleExampleMap
+[2019.11.09-04.04.43:224][955]PackagingResults: Warning: Unable to find package for cooking /Game/VehicleBP/Maps/VehicleExampleMap
+[2019.11.09-04.04.44:234][959]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 480 Total 530
+[2019.11.09-04.04.44:902][961]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 479 Total 579
+[2019.11.09-04.04.45:569][963]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 147 Packages Remain 478 Total 625
+[2019.11.09-04.04.45:569][963]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 148 Packages Remain 477 Total 625
+[2019.11.09-04.04.45:569][963]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 149 Packages Remain 476 Total 625
+[2019.11.09-04.04.45:569][963]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 475 Total 625
+[2019.11.09-04.04.45:569][963]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 152 Packages Remain 474 Total 626
+[2019.11.09-04.04.45:569][963]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 153 Packages Remain 473 Total 626
+[2019.11.09-04.04.45:569][963]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 153 Packages Remain 332 Total 485
+[2019.11.09-04.04.45:906][964]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 168 Packages Remain 331 Total 499
+[2019.11.09-04.04.45:906][964]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 169 Packages Remain 330 Total 499
+[2019.11.09-04.04.45:906][964]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 174 Packages Remain 329 Total 503
+[2019.11.09-04.04.48:904][973]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 183 Packages Remain 343 Total 526
+[2019.11.09-04.04.53:243][986]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 233 Packages Remain 346 Total 579
+[2019.11.09-04.04.54:583][990]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 283 Packages Remain 346 Total 629
+[2019.11.09-04.04.55:924][994]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 333 Packages Remain 347 Total 680
+[2019.11.09-04.04.56:922][997]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 383 Packages Remain 340 Total 723
+[2019.11.09-04.04.58:608][  2]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 433 Packages Remain 332 Total 765
+[2019.11.09-04.04.59:604][  5]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 483 Packages Remain 331 Total 814
+[2019.11.09-04.04.59:604][  5]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 485 Packages Remain 330 Total 815
+[2019.11.09-04.04.59:605][  5]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 486 Packages Remain 328 Total 814
+[2019.11.09-04.04.59:605][  5]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 486 Packages Remain 301 Total 787
+[2019.11.09-04.04.59:940][  6]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 486 Packages Remain 293 Total 779
+[2019.11.09-04.04.59:940][  6]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 486 Packages Remain 268 Total 754
+[2019.11.09-04.04.59:940][  6]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 486 Packages Remain 245 Total 731
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 495 Packages Remain 230 Total 725
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 496 Packages Remain 229 Total 725
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 497 Packages Remain 228 Total 725
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 498 Packages Remain 227 Total 725
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 499 Packages Remain 226 Total 725
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 500 Packages Remain 225 Total 725
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 501 Packages Remain 224 Total 725
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 502 Packages Remain 223 Total 725
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 503 Packages Remain 222 Total 725
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 504 Packages Remain 219 Total 723
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 505 Packages Remain 218 Total 723
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 506 Packages Remain 217 Total 723
+[2019.11.09-04.05.00:274][  7]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 507 Packages Remain 216 Total 723
+[2019.11.09-04.05.00:610][  8]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 508 Packages Remain 215 Total 723
+[2019.11.09-04.05.00:611][  8]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 509 Packages Remain 214 Total 723
+[2019.11.09-04.05.00:611][  8]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 510 Packages Remain 212 Total 722
+[2019.11.09-04.05.00:611][  8]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 511 Packages Remain 208 Total 719
+[2019.11.09-04.05.00:611][  8]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 512 Packages Remain 207 Total 719
+[2019.11.09-04.05.00:611][  8]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 513 Packages Remain 206 Total 719
+[2019.11.09-04.05.00:611][  8]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 514 Packages Remain 205 Total 719
+[2019.11.09-04.05.00:611][  8]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 515 Packages Remain 202 Total 717
+[2019.11.09-04.05.00:611][  8]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 516 Packages Remain 200 Total 716
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 517 Packages Remain 196 Total 713
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 518 Packages Remain 195 Total 713
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 519 Packages Remain 194 Total 713
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 520 Packages Remain 191 Total 711
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 521 Packages Remain 186 Total 707
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 522 Packages Remain 185 Total 707
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 523 Packages Remain 182 Total 705
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 525 Packages Remain 134 Total 659
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 529 Packages Remain 103 Total 632
+[2019.11.09-04.05.00:947][  9]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 531 Packages Remain 91 Total 622
+[2019.11.09-04.05.01:278][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 533 Packages Remain 89 Total 622
+[2019.11.09-04.05.01:278][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 534 Packages Remain 77 Total 611
+[2019.11.09-04.05.01:278][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 535 Packages Remain 75 Total 610
+[2019.11.09-04.05.01:278][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 536 Packages Remain 73 Total 609
+[2019.11.09-04.05.01:278][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 537 Packages Remain 72 Total 609
+[2019.11.09-04.05.01:278][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 538 Packages Remain 71 Total 609
+[2019.11.09-04.05.01:278][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 539 Packages Remain 68 Total 607
+[2019.11.09-04.05.01:278][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 540 Packages Remain 65 Total 605
+[2019.11.09-04.05.01:279][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 541 Packages Remain 55 Total 596
+[2019.11.09-04.05.01:279][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 541 Packages Remain 0 Total 541
+[2019.11.09-04.05.01:279][ 10]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2019.11.09-04.05.01:279][ 10]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.11.09-04.05.01:279][ 10]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.11.09-04.05.01:279][ 10]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.11.09-04.05.01:612][ 11]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-04.05.01:612][ 11]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 538, size is 240.85kb
+[2019.11.09-04.05.01:612][ 11]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-04.05.01:612][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 17.923195s total time 20.134932
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 1077MB Peak Used physical 1017MB
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 1.938s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 0.223s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandboxTime: 0.463s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.008s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.351s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 17.906s (86)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 5.256s (85)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.416s (86)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.020s (86)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 12.210s (61)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.001s (595)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 7.642s (584)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 4.425s (541)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.002s (541)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 4.389s (541)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.179s (541)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.004s (538)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.017s (541)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (8)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.063s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.049s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.004s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.135s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.053s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.025s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.050s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.007s (1)
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.018614s to verify the EDL loading graph.
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000223
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=238
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=5.892700
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=541
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=3.918900
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.318915
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.134334
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.001806
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.005878
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000517
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.197142
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.407220
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=1.380143
+[2019.11.09-04.05.01:613][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.459576
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=614.212175
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=25.211700
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=5.015941
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=20.195449
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.939153
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000039
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=18.193533
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=5.257655
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=4.425059
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=8.057742
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.116687
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000096
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000022
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000043
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000005
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits  =      1672
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets     =      1672
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct=  0.121411
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct=  0.878589
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits  =         0
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts     =         0
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct= -nan(ind)
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct    = -nan(ind)
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                            11.52                   0.00             0        433.07
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  3.73                   3.73             0         12.46
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.72                   0.72             0         63.27
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.64                   0.64             0         21.97
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.20                   0.20             0          3.42
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.10                   0.10             0          0.16
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.04                   0.04             0         71.20
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.01                   0.01             0          1.48
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          2.65
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: CookResults: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: CookResults: Warning: Unable to find package for cooking /Game/VehicleBP/Maps/VehicleExampleMap
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/VehicleBP/Maps/VehicleExampleMap
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 4 warning(s)
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   
+[2019.11.09-04.05.01:614][ 11]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  20.40 seconds
+[2019.11.09-04.05.04:221][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.09-04.05.04:692][275]LogSlate: Took 0.115726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.11.09-04.05.13:143][786]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.09-04.05.13:143][786]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.09-04.05.13:143][786]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.09-04.05.15:148][792]UATHelper: Packaging (Windows (64-bit)): Took 38.7877641s to run UE4Editor-Cmd.exe, ExitCode=0
+[2019.11.09-04.05.15:148][792]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2019.11.09-04.05.15:148][792]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2019.11.09-04.05.15:148][792]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2019.11.09-04.05.15:813][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditor.ini
+[2019.11.09-04.05.15:813][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2019.11.09-04.05.15:813][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2019.11.09-04.05.15:813][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.11.09-04.05.15:813][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2019.11.09-04.05.15:814][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseLightmass.ini
+[2019.11.09-04.05.15:814][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2019.11.09-04.05.15:814][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\Category.ini
+[2019.11.09-04.05.15:814][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\Editor.ini
+[2019.11.09-04.05.15:815][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2019.11.09-04.05.15:815][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\Engine.ini
+[2019.11.09-04.05.15:815][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2019.11.09-04.05.15:815][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2019.11.09-04.05.15:815][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2019.11.09-04.05.15:815][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2019.11.09-04.05.15:816][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2019.11.09-04.05.15:816][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2019.11.09-04.05.15:816][794]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2019.11.09-04.05.16:149][795]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Config\DefaultEditor.ini
+[2019.11.09-04.05.16:149][795]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.11.09-04.05.17:146][798]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-04.05.17:146][798]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2019.11.09-04.05.17:501][832]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2019.11.09-04.05.27:504][775]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2019.11.09-04.05.32:143][208]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2019.11.09-04.05.32:143][208]UATHelper: Packaging (Windows (64-bit)): Output from: "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject" "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\StagedBuilds\WindowsNoEditor\DonutsGame\Content\Paks\DonutsGame-WindowsNoEditor.pak" -create="C:\Users\Quinten\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Programs+Unreal+Epic+Games+UE_4.23\PakList_DonutsGame-WindowsNoEditor.txt" -cryptokeys="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\Cooked\WindowsNoEditor\DonutsGame\Metadata\Crypto.json" -order="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\Quinten\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Programs+Unreal+Epic+Games+UE_4.23\UnrealPak-DonutsGame-WindowsNoEditor-2019.11.09-05.05.17.txt"
+[2019.11.09-04.05.32:152][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2019.11.09-04.05.32:152][209]UATHelper: Packaging (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2019.11.09-04.05.32:152][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\Quinten\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Programs+Unreal+Epic+Games+UE_4.23\PakList_DonutsGame-WindowsNoEditor.txt
+[2019.11.09-04.05.32:152][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2066 entries to add to pak file.
+[2019.11.09-04.05.32:153][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2019.11.09-04.05.32:153][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2019.11.09-04.05.32:153][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2019.11.09-04.05.32:153][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 2066 files in 0.01s.
+[2019.11.09-04.05.32:153][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\StagedBuilds\WindowsNoEditor\DonutsGame\Content\Paks\DonutsGame-WindowsNoEditor.pak.
+[2019.11.09-04.05.32:153][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2066 files, 659480400 bytes total, time 7.03s.
+[2019.11.09-04.05.32:154][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2019.11.09-04.05.32:154][209]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 7.195011 seconds
+[2019.11.09-04.05.32:154][209]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2019.11.09-04.05.32:172][211]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-04.05.33:761][360]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2019.11.09-04.05.33:761][360]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2019.11.09-04.05.33:762][360]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2019.11.09-04.05.33:762][360]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2019.11.09-04.05.33:762][360]UATHelper: Packaging (Windows (64-bit)): Archiving to D:/New folder/Build
+[2019.11.09-04.05.40:008][940]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2019.11.09-04.05.40:009][940]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2019.11.09-04.05.40:011][940]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2019.11.09-04.06.32:503][352]LogSlate: Window 'Output Log' being destroyed
+[2019.11.09-04.06.32:508][352]LogSlate: Window 'Output Log' being destroyed
+[2019.11.09-04.06.33:386][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.09-04.06.34:460][551]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.09-04.06.38:080][551]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.09-04.08.33:781][160]LogLinker: Warning: Failed to load '/Game/VehicleBP/Blueprints/VehicleGameMode': Can't find file.
+[2019.11.09-04.08.33:781][160]LogLinker: Warning: Failed to load '/Game/VehicleBP/Blueprints/VehicleGameMode': Can't find file.
+[2019.11.09-04.08.33:781][160]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleBP/Blueprints/VehicleGameMode.VehicleGameMode_C'
+[2019.11.09-04.09.58:667][622]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.09-04.09.58:739][622]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.09-04.10.25:725][190]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.09-04.10.29:491][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.09-04.10.31:680][534]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2019.11.09-04.10.32:154][578]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/DonutsGame.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/Quinten/Documents/Unreal Projects/DonutsGame/DonutsGame.uproject" -cook -stage -archive -archivedirectory="D:/New folder/Build" -package -clientconfig=Development -ue4exe="D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -utf8output
+[2019.11.09-04.10.32:578][618]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject
+[2019.11.09-04.10.32:750][634]UATHelper: Packaging (Windows (64-bit)): DonutsGame.uproject requires a temporary target.cs to be generated (RawInput plugin is enabled)
+[2019.11.09-04.10.33:873][739]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2019.11.09-04.10.33:894][741]UATHelper: Packaging (Windows (64-bit)): Running: D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Binaries\DotNET\UnrealBuildTool.exe DonutsGame Win64 Development -Project="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject"  "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject" -NoUBTMakefiles  -remoteini="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame" -skipdeploy -Manifest="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\Quinten\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Programs+Unreal+Epic+Games+UE_4.23\UBT-DonutsGame-Win64-Development.txt"
+[2019.11.09-04.10.36:949][991]UATHelper: Packaging (Windows (64-bit)):   Parsing headers for DonutsGame
+[2019.11.09-04.10.36:949][991]UATHelper: Packaging (Windows (64-bit)):     Running UnrealHeaderTool "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject" "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Intermediate\Build\Win64\DonutsGame\Development\DonutsGame.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.09-04.10.58:026][ 54]UATHelper: Packaging (Windows (64-bit)):   Reflection code generated for DonutsGame in 20.8570837 seconds
+[2019.11.09-04.10.59:028][ 57]UATHelper: Packaging (Windows (64-bit)):   Writing manifest to C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Intermediate\Build\Manifest.xml
+[2019.11.09-04.10.59:369][ 58]UATHelper: Packaging (Windows (64-bit)):   Target is up to date
+[2019.11.09-04.10.59:369][ 58]UATHelper: Packaging (Windows (64-bit)):   Total execution time: 25.19 seconds
+[2019.11.09-04.10.59:369][ 58]UATHelper: Packaging (Windows (64-bit)): Took 25.3010336s to run UnrealBuildTool.exe, ExitCode=0
+[2019.11.09-04.10.59:369][ 58]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND COMPLETED **********
+[2019.11.09-04.10.59:369][ 58]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2019.11.09-04.10.59:369][ 58]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject
+[2019.11.09-04.10.59:369][ 58]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.11.09-05.10.59.txt
+[2019.11.09-04.10.59:369][ 58]UATHelper: Packaging (Windows (64-bit)): Running: D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -unversioned -abslog="D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.11.09-05.10.59.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2019.11.09-04.11.01:708][ 65]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.11.09-04.11.01:708][ 65]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: DonutsGame
+[2019.11.09-04.11.05:744][ 77]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8543453184 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.09-04.11.09:757][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.09-04.11.09:758][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.09-04.11.09:758][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.09-04.11.09:758][ 89]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2019.11.09-04.11.10:092][ 90]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.09-04.11.10:760][ 92]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.09-04.11.14:445][103]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.09-04.11.14:778][104]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Quinten/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.09-04.11.14:778][104]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.09-04.11.20:971][195]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.09-04.11.20:971][195]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2019.11.09-04.11.20:971][195]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2019.11.09-04.11.23:655][203]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets
+[2019.11.09-04.11.23:655][203]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2019.11.09-04.11.23:990][204]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2019.11.09-04.11.24:323][205]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.430 seconds for platforms WindowsNoEditor  iterative false
+[2019.11.09-04.11.25:318][207]UATHelper: Packaging (Windows (64-bit)):   CookResults: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.11.25:318][207]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.11.25:318][207]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 481 Total 481
+[2019.11.09-04.11.25:318][207]PackagingResults: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.11.25:318][207]PackagingResults: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.11.26:326][211]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 50 Packages Remain 480 Total 530
+[2019.11.09-04.11.28:334][217]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 100 Packages Remain 508 Total 608
+[2019.11.09-04.11.28:665][218]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 509 Total 659
+[2019.11.09-04.11.29:345][220]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 200 Packages Remain 508 Total 708
+[2019.11.09-04.11.29:670][221]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 233 Packages Remain 507 Total 740
+[2019.11.09-04.11.30:006][222]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 234 Packages Remain 506 Total 740
+[2019.11.09-04.11.30:006][222]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 235 Packages Remain 505 Total 740
+[2019.11.09-04.11.30:006][222]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 237 Packages Remain 504 Total 741
+[2019.11.09-04.11.30:006][222]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 238 Packages Remain 503 Total 741
+[2019.11.09-04.11.30:006][222]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 238 Packages Remain 362 Total 600
+[2019.11.09-04.11.30:007][222]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 244 Packages Remain 362 Total 606
+[2019.11.09-04.11.30:350][223]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 253 Packages Remain 361 Total 614
+[2019.11.09-04.11.30:351][223]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 254 Packages Remain 360 Total 614
+[2019.11.09-04.11.30:351][223]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 259 Packages Remain 359 Total 618
+[2019.11.09-04.11.33:026][231]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 284 Packages Remain 362 Total 646
+[2019.11.09-04.11.37:041][243]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 334 Packages Remain 363 Total 697
+[2019.11.09-04.11.38:746][248]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 384 Packages Remain 364 Total 748
+[2019.11.09-04.11.40:733][254]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 434 Packages Remain 357 Total 791
+[2019.11.09-04.11.41:070][255]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 480 Packages Remain 356 Total 836
+[2019.11.09-04.11.41:405][256]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 481 Packages Remain 349 Total 830
+[2019.11.09-04.11.41:405][256]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 482 Packages Remain 348 Total 830
+[2019.11.09-04.11.41:405][256]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 483 Packages Remain 347 Total 830
+[2019.11.09-04.11.41:739][257]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 484 Packages Remain 345 Total 829
+[2019.11.09-04.11.41:739][257]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 484 Packages Remain 318 Total 802
+[2019.11.09-04.11.41:739][257]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 484 Packages Remain 310 Total 794
+[2019.11.09-04.11.41:739][257]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 484 Packages Remain 285 Total 769
+[2019.11.09-04.11.42:076][258]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 484 Packages Remain 262 Total 746
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 493 Packages Remain 247 Total 740
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 494 Packages Remain 246 Total 740
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 495 Packages Remain 245 Total 740
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 496 Packages Remain 244 Total 740
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 497 Packages Remain 243 Total 740
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 498 Packages Remain 242 Total 740
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 499 Packages Remain 241 Total 740
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 500 Packages Remain 240 Total 740
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 501 Packages Remain 239 Total 740
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 502 Packages Remain 236 Total 738
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 503 Packages Remain 235 Total 738
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 504 Packages Remain 234 Total 738
+[2019.11.09-04.11.42:413][259]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 505 Packages Remain 233 Total 738
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 506 Packages Remain 232 Total 738
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 507 Packages Remain 231 Total 738
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 508 Packages Remain 229 Total 737
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 509 Packages Remain 225 Total 734
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 510 Packages Remain 224 Total 734
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 511 Packages Remain 223 Total 734
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 512 Packages Remain 222 Total 734
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 513 Packages Remain 219 Total 732
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 514 Packages Remain 217 Total 731
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 515 Packages Remain 213 Total 728
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 516 Packages Remain 212 Total 728
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 517 Packages Remain 211 Total 728
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 518 Packages Remain 208 Total 726
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 519 Packages Remain 203 Total 722
+[2019.11.09-04.11.42:748][260]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 520 Packages Remain 202 Total 722
+[2019.11.09-04.11.43:082][261]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 521 Packages Remain 199 Total 720
+[2019.11.09-04.11.43:082][261]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 523 Packages Remain 151 Total 674
+[2019.11.09-04.11.43:082][261]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 523 Packages Remain 138 Total 661
+[2019.11.09-04.11.43:082][261]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 525 Packages Remain 121 Total 646
+[2019.11.09-04.11.43:082][261]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 529 Packages Remain 114 Total 643
+[2019.11.09-04.11.43:082][261]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 531 Packages Remain 109 Total 640
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 533 Packages Remain 107 Total 640
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 534 Packages Remain 95 Total 629
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 535 Packages Remain 93 Total 628
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 536 Packages Remain 91 Total 627
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 537 Packages Remain 90 Total 627
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 538 Packages Remain 89 Total 627
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 539 Packages Remain 86 Total 625
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 540 Packages Remain 83 Total 623
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 541 Packages Remain 73 Total 614
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 541 Packages Remain 0 Total 541
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 538, size is 240.85kb
+[2019.11.09-04.11.43:419][262]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 17.905116s total time 22.567593
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 1001MB Peak Used physical 967MB
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     StartCookByTheBookTime: 4.374s (1)
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateAssetRegistryTime: 2.573s (1)
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CleanSandboxTime: 0.430s (1)
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ProcessingAccessedStrings: 0.006s (1)
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CollectFilesToCook: 0.356s (1)
+[2019.11.09-04.11.43:752][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 17.886s (89)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackage: 6.081s (87)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.373s (89)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.016s (89)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 11.412s (64)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.041s (591)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 7.429s (580)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 3.893s (541)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           LoadPackage: 0.001s (541)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 3.858s (541)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.053s (541)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.003s (538)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.017s (541)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (10)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.112s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.047s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.004s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.092s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.024s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.003s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.054s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.011s (1)
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.021685s to verify the EDL loading graph.
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000221
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=240
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=7.129439
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=541
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=3.590968
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.313973
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.120365
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.001651
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.005641
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000512
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.230292
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.376574
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=1.348800
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.457749
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=614.212175
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2019.11.09-04.11.43:753][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=42.232803
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=19.590080
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=22.635416
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=4.388505
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000025
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=18.177563
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=6.082911
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=3.892723
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=7.841781
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.024776
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.015149
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000022
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000038
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000005
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits  =      1672
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets     =      1672
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct=  0.121411
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct=  0.878589
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits  =         0
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts     =         0
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct= -nan(ind)
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct    = -nan(ind)
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             9.42                   0.00             0        433.07
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  3.53                   3.53             0         12.46
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      1.04                   1.04             0         63.27
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.76                   0.76             0         21.97
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.08                   0.08             0          3.42
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.07                   0.07             0          0.16
+[2019.11.09-04.11.43:754][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.01                   0.01             0          1.48
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          2.65
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         71.20
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: CookResults: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/VehicleBP/Blueprints/VehicleGameMode
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 2 warning(s)
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   
+[2019.11.09-04.11.43:755][263]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  22.79 seconds
+[2019.11.09-04.11.55:821][436]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.09-04.11.55:821][436]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.09-04.11.55:821][436]UATHelper: Packaging (Windows (64-bit)):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.09-04.11.57:488][441]UATHelper: Packaging (Windows (64-bit)): Took 58.0463475s to run UE4Editor-Cmd.exe, ExitCode=0
+[2019.11.09-04.11.57:488][441]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2019.11.09-04.11.57:488][441]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2019.11.09-04.11.57:488][441]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditor.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BaseLightmass.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\Category.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\Editor.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\Engine.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file D:\Programs\Unreal\Epic Games\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Config\DefaultEditor.ini
+[2019.11.09-04.11.58:159][443]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.11.09-04.11.59:159][446]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-04.11.59:159][446]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2019.11.09-04.11.59:492][447]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2019.11.09-04.12.09:535][477]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)): Output from: "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\DonutsGame.uproject" "C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\StagedBuilds\WindowsNoEditor\DonutsGame\Content\Paks\DonutsGame-WindowsNoEditor.pak" -create="C:\Users\Quinten\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Programs+Unreal+Epic+Games+UE_4.23\PakList_DonutsGame-WindowsNoEditor.txt" -cryptokeys="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\Cooked\WindowsNoEditor\DonutsGame\Metadata\Crypto.json" -order="C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log" -patchpaddingalign=2048 -compressionformats=  -multiprocess -abslog="C:\Users\Quinten\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Programs+Unreal+Epic+Games+UE_4.23\UnrealPak-DonutsGame-WindowsNoEditor-2019.11.09-05.11.59.txt"
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogCompression: Display: FCompression::GetCompressionFormat - Unable to find a module or plugin for compression format -multiprocess
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\Quinten\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Programs+Unreal+Epic+Games+UE_4.23\PakList_DonutsGame-WindowsNoEditor.txt
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2066 entries to add to pak file.
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 2066 files in 0.02s.
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\StagedBuilds\WindowsNoEditor\DonutsGame\Content\Paks\DonutsGame-WindowsNoEditor.pak.
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2066 files, 659480400 bytes total, time 5.67s.
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 5.799163 seconds
+[2019.11.09-04.12.12:623][734]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2019.11.09-04.12.12:654][737]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\Quinten\Documents\Unreal Projects\DonutsGame\Saved\StagedBuilds\WindowsNoEditor
+[2019.11.09-04.12.15:120][946]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2019.11.09-04.12.15:120][946]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2019.11.09-04.12.15:135][947]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2019.11.09-04.12.15:136][947]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2019.11.09-04.12.15:136][947]UATHelper: Packaging (Windows (64-bit)): Archiving to D:/New folder/Build
+[2019.11.09-04.12.17:990][ 53]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2019.11.09-04.12.17:990][ 53]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2019.11.09-04.12.17:990][ 53]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
